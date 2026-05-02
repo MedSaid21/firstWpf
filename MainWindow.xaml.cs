@@ -9,7 +9,7 @@ namespace firstWPF
         public MainWindow()
         {
             InitializeComponent();
-            //hello world;
+            //hello world 2;
         }
 
     }
