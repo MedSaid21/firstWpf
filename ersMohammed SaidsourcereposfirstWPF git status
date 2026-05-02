@@ -1,0 +1,30 @@
+[33mcommit 5e6b6146fb7de4fb2aa616c6a4888521b2dca614[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: EL GORRI MOHAMMED SAID <159718186+MedSaid21@users.noreply.github.com>
+Date:   Sat May 2 06:26:16 2026 +0100
+
+    secind cmnt
+
+[33mcommit acdfac6f6ed91b06a1e678fd23c8dbf60f0cc665[m
+Author: EL GORRI MOHAMMED SAID <159718186+MedSaid21@users.noreply.github.com>
+Date:   Sat May 2 05:58:30 2026 +0100
+
+    add comnts
+
+[33mcommit a3e0bb81c5b75e0b8c7a3c238aa83979b96eb3aa[m[33m ([m[1;32mmaster[m[33m)[m
+Merge: b35d7bb df7a1b1
+Author: EL GORRI MOHAMMED SAID <159718186+MedSaid21@users.noreply.github.com>
+Date:   Sat May 2 05:56:05 2026 +0100
+
+    merge remote README with local project
+
+[33mcommit df7a1b13952c2b4baa1ed54a404cc75b747405e6[m
+Author: EL GORRI MOHAMMED SAID <159718186+MedSaid21@users.noreply.github.com>
+Date:   Sat May 2 05:44:52 2026 +0100
+
+    Initial commit
+
+[33mcommit b35d7bb7dc76c4f522ba0af31253127d32d54846[m
+Author: EL GORRI MOHAMMED SAID <159718186+MedSaid21@users.noreply.github.com>
+Date:   Sat May 2 05:38:41 2026 +0100
+
+    first commit with grid view
