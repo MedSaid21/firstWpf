@@ -30,6 +30,9 @@
             <Rectangle Fill="BlueViolet" Grid.Column="1"/>
             <Rectangle Fill="Chocolate" Grid.Column="2"/>
 
+            <Button Width="100" Height="50"
+                    Background="DarkSlateBlue" Grid.Column="1" >
+                Clcik here</Button>
         </Grid>
 
     </Grid>
